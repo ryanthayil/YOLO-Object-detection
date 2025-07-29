@@ -14,15 +14,23 @@ Example :[YOLOv8 Detection Demo](https://github.com/ultralytics/assets/raw/main/
 
 **SETUP ENVIRONMENT**
 
-```python3 -m venv venv```
+```bash
+python3 -m venv venv
+```
 
-```source venv/bin/activate```
+```bash
+source venv/bin/activate
+```
 
 **INSTALL DEPENDENCIES**
 
-```pip install -r requirements.txt```
+```bash
+pip install -r requirements.txt
+```
 
 **TO RUN**
 
-```python3 yolo_webcam.py```
+```bash
+python3 yolo_webcam.py
+```
 
