@@ -1,6 +1,6 @@
 # YOLO-Object-detection
 
-# 🧠 YOLOv8 Real-Time Object Detection with Webcam
+# YOLOv8 Real-Time Object Detection with Webcam
 
 This project uses [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) and OpenCV to perform real-time object detection from a webcam feed.
 
