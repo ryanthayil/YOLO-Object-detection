@@ -13,12 +13,15 @@ FEATURES
 - Runs on CPU (or GPU if available)
 
 SETUP ENVIRONMENT
+
 ```python3 -m venv venv```
 ```source venv/bin/activate```
 
 INSTALL DEPENDENCIES
+
 ```pip install -r requirements.txt```
 
 TO RUN
+
 ```python3 yolo_webcam.py```
 
