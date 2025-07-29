@@ -6,7 +6,7 @@ This project uses [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytic
 
 ![YOLOv8 Detection Demo](https://github.com/ultralytics/assets/raw/main/yolov8/example-output.jpg)
 
-## 🚀 Features
+FEATURES
 
 - Real-time object detection using YOLOv8 Nano 
 - Live webcam feed with bounding boxes and labels
