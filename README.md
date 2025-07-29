@@ -6,22 +6,23 @@ This project uses [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytic
 
 Example :[YOLOv8 Detection Demo](https://github.com/ultralytics/assets/raw/main/yolov8/example-output.jpg)
 
-FEATURES
+-FEATURES
 
 - Real-time object detection using YOLOv8 Nano 
 - Live webcam feed with bounding boxes and labels
 - Runs on CPU (or GPU if available)
 
-SETUP ENVIRONMENT
+-SETUP ENVIRONMENT
 
 ```python3 -m venv venv```
+
 ```source venv/bin/activate```
 
-INSTALL DEPENDENCIES
+-INSTALL DEPENDENCIES
 
 ```pip install -r requirements.txt```
 
-TO RUN
+-TO RUN
 
 ```python3 yolo_webcam.py```
 
