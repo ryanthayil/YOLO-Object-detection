@@ -13,12 +13,12 @@ Example :[YOLOv8 Detection Demo](https://github.com/ultralytics/assets/raw/main/
 - Runs on CPU (or GPU if available)
   
 **ULTRALYTICS COVERS**
--torch (PyTorch)
--numpy
--matplotlib
--tqdm
--Other internal YOLO utilities
--So you don’t need to add torch or numpy manually — ultralytics handles it.
+- torch (PyTorch)
+- numpy
+- matplotlib
+- tqdm
+- Other internal YOLO utilities
+- So you don’t need to add torch or numpy manually — ultralytics handles it.
 
 **SETUP ENVIRONMENT**
 
