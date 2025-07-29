@@ -1,10 +1,2 @@
-openai==1.79.0
-whisper==1.1.10
-speechrecognition==3.10.1
-pyaudio==0.2.14
-pyttsx3==2.90
-python-dotenv==1.1.0
-requests==2.32.3
-tqdm==4.67.1
-numpy==2.2.6
-sounddevice==0.5.2
+ultralytics>=8.0.0
+opencv-python
